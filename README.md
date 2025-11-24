@@ -39,18 +39,19 @@ I'm a computer vision professional specializing in object detection, satellite i
 
 ---
 
-#### 🌱 [Computer Vision and Deep Learning for Waste Management Systems](https://doi.org/10.1109/ICACITE53722.2022.9823449)
-**IEEE ICACITE Conference** | April 2022  
-[![DOI](https://img.shields.io/badge/DOI-10.1109%2FICACITE53722.2022.9823449-blue)](https://doi.org/10.1109/ICACITE53722.2022.9823449)
+#### ✈️ [Detection of Camouflaged Drones Using Computer Vision](https://doi.org/10.1109/Confluence52989.2022.9734191)
+**IEEE Confluence Conference** | January 2022  
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FConfluence52989.2022.9734191-blue)](https://doi.org/10.1109/Confluence52989.2022.9734191)
 
-> Designed and optimized a CNN‑based algorithm for automated waste classification, enhancing automation in municipal waste processing.
+> Developed a CNN‑based UAV detection model for camouflaged and low‑visibility scenarios, addressing surveillance and defense challenges.
 
 **Key Contributions:**
-- 🌱 Automated waste classification system
-- 🤖 Real‑world deployment considerations
-- 📊 Improved waste management efficiency
+- 🎯 15% improvement in detection accuracy
+- 🔍 Novel approach to camouflaged object detection
+- 🛡️ Applications in security and defense
 
-**Tech Stack:** `Deep Learning` `Computer Vision` `Classification` `Environmental AI`
+**Tech Stack:** `CNN` `Object Detection` `UAV Detection` `Computer Vision`
+
 
 ---
 
